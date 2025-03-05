@@ -1,6 +1,6 @@
 # Doctor Appointmant App
 
-TaxTip Admin is a Flutter project aimed at simplifying tax administration tasks. It offers a user-friendly interface and efficient functionalities to manage tax-related data effectively.
+A Flutter-based Doctor Appointment App with secure authentication, profile management, appointment scheduling, and real-time chat functionality.
 
 ![Cover Image 1](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql/blob/master/ss/1.png)
 ![Cover Image 2](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql/blob/master/ss/2.png)
